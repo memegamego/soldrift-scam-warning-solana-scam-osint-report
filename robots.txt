@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://soldrift-scams-warning.vercel.app/sitemap.xml
+Sitemap: https://soldrift-scams-warning.vercel.app/image-sitemap.xml
+
+Sitemap: https://soldrift-scams-warning.vercel.app/video-sitemap.xml
